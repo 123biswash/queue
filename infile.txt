@@ -1,0 +1,11 @@
+Herold, Jill     1     123 Main St.      Washington, DC   45456 F
+Jackson, Stan    2     12 Douglas Ave.   Baltimore, MD    20345 M 
+Jerry, Francis   3     2345 6th Street   Woodbridge, VA   20111 M
+Joan, Wilson     4     12 Georgia Ave.   Washington, DC   20019 F
+Smith, Stanley   5     56 D Street       Baltimore, MD    30229 M
+Claire, Claude  6     66 32nd Street    Woodbridge, VA   44040 F
+Rodriguez, San 7   33 2nd Street     Washington, DC   44040 M
+Robinson, Mary   8     321 Georgia Ave.  Washington, DC   44040 F
+Elliot, Amelia   9     15 Douglas Ave.   Baltimore, MD    30229 F
+Remeaux, Sol     10    700 7th Street    Woodbridge, VA   44040 M
+Bacon, Francis   11    717 7th Street    Woodbridge, VA   44040 M
